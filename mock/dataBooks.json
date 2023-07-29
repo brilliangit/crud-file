@@ -1,0 +1,41 @@
+{
+  "data": {
+    "books": [
+      {
+        "id": 1,
+        "name": "Buku A",
+        "publisher": "Dicoding Indonesia"
+      },
+      {
+        "id": 2,
+        "name": "Buku Anjing",
+        "publisher": "Anjing"
+      },
+      {
+        "id": 3,
+        "name": "Buku C",
+        "publisher": "Dicoding Indonesia"
+      },
+      {
+        "id": 4,
+        "name": "Buku Asu",
+        "publisher": "Dicoding Indonesia"
+      },
+      {
+        "id": 5,
+        "name": "Buku Asu mataaaneeeee",
+        "publisher": "Dicoding Indonesia"
+      },
+      {
+        "id": 6,
+        "name": "Buku Asu mataaaneeeee",
+        "publisher": "Dicoding Indonesia"
+      },
+      {
+        "id": "04e35eb3e4fcb8b395191053c359ca0e",
+        "name": "Buku Asu mataaaneeeee",
+        "publisher": "Dicoding Indonesia"
+      }
+    ]
+  }
+}
