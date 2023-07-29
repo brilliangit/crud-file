@@ -73,8 +73,8 @@ router.put('/', (req, res, next) => {
   
   const result = books.filter((item) => {
     if (item.id === 2 ) {
-      item.publisher = 'Anjing';
-      item.name = 'Buku Anjing';
+      item.publisher = 'Lala';
+      item.name = 'Buku Lala';
       return item
     }
     return item
